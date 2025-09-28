@@ -1,4 +1,4 @@
-# Mini-Project-2
+# Mini-Project-Test
 NAMA : Alisya Octa Noor Ghina\
 NIM : 2509116017\
 KELAS : A2025
